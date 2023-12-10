@@ -1,0 +1,41 @@
+/wordpress uncategorized/hello-world site:gov
+/wordpress uncategorized/hello-world site:il
+/wordpress uncategorized/hello-world site:tv
+/wordpress uncategorized/hello-world site:ru
+/wordpress uncategorized/hello-world site:kz
+/wordpress uncategorized/hello-world site:pl
+/wordpress uncategorized/hello-world site:us
+/wordpress uncategorized/hello-world site:pk
+/wordpress uncategorized/hello-world site:nl
+/wordpress uncategorized/hello-world site:uk
+/wordpress uncategorized/hello-world site:nz
+/wordpress uncategorized/hello-world site:bd
+/wordpress uncategorized/hello-world site:in
+"/wp-content/uploads/" insite:gov
+"/wp-content/uploads/" insite:il
+"/wp-content/uploads/" insite:tv
+"/wp-content/uploads/" insite:ru
+"/wp-content/uploads/" insite:kz
+"/wp-content/uploads/" insite:pl
+"/wp-content/uploads/" insite:us
+"/wp-content/uploads/" insite:pk
+"/wp-content/uploads/" insite:nl
+"/wp-content/uploads/" insite:uk
+"/wp-content/uploads/" insite:nz
+"/wp-content/uploads/" insite:bd
+"/wp-content/uploads/" insite:in
+"/wp-content/uploads/" insite:edu 
+"Index of" /wp-content/ insite:gov
+"Index of" /wp-content/ insite:gov
+"Index of" /wp-content/ insite:il
+"Index of" /wp-content/ insite:tv
+"Index of" /wp-content/ insite:ru
+"Index of" /wp-content/ insite:kz
+"Index of" /wp-content/ insite:pl
+"Index of" /wp-content/ insite:us
+"Index of" /wp-content/ insite:pk
+"Index of" /wp-content/ insite:nl
+"Index of" /wp-content/ insite:uk
+"Index of" /wp-content/ insite:nz
+"Index of" /wp-content/ insite:bd
+"Index of" /wp-content/ insite:in

@@ -1,0 +1,2 @@
+/wordpress uncategorized/hello-world site:il
+"/wp-content/uploads/" insite:il
